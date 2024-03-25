@@ -1,5 +1,5 @@
 ##codigo de python 
-nombre = "Camila"
+nombre = "Wuilson Wili"
 apellido = "Felipe"
 
 saludo = "hola "+ nombre + " " + apellido + " ¿Como estas"
